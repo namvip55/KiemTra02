@@ -12,10 +12,18 @@ Markdown
 
 ## KẾT QUẢ THỰC HÀNH
 
+### 1. Giao diện chính
+
 ![Giao diện chính](./screenshots/main_ui.png)
+
+### 2. Chức năng quản lý sản phẩm
 
 ![Chức năng quản lý sản phẩm](./screenshots/cn1.png)
 
-![Chức năng quản ;ý nhập xuất](./screenshots/cn2.png)
+### 3. Chức năng quản lý nhập xuất
 
-![Chức năng Báo cáo thống kê và đồng bộ](./screenshots/cn3.png)
+![Chức năng quản lý nhập xuất](./screenshots/cn2.png)
+
+### 4. Chức năng báo cáo thống kê và đồng bộ
+
+![Chức năng báo cáo thống kê và đồng bộ](./screenshots/cn3.png)

@@ -12,12 +12,20 @@ Markdown
 
 ## KẾT QUẢ THỰC HÀNH
 
-### 1. Ảnh màn hình Giao diện chính
+### 1. Ảnh màn hình giao diện chính
+
 ![Giao diện chính](./screenshots/main_ui.png)
 
-### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+### 2. Ảnh màn hình chức năng thực thi / kết quả
+
+#### 2.1. Chức năng thêm sản phẩm
+
 ![Chức năng thêm sản phẩm](./screenshots/cn1.png)
+
+#### 2.2. Chức năng Export CSV
 
 ![Chức năng Export CSV](./screenshots/cn2.png)
 
-![Chức năng Import CSV sau khi thêm thủ công từ exel](./screenshots/cn3.png)
+#### 2.3. Chức năng Import CSV sau khi thêm dữ liệu thủ công từ Excel
+
+![Chức năng Import CSV sau khi thêm dữ liệu thủ công từ Excel](./screenshots/cn3.png)
