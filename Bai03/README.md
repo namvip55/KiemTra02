@@ -12,10 +12,8 @@ Markdown
 
 ## KẾT QUẢ THỰC HÀNH
 
-### 1. Ảnh màn hình Giao diện chính
 ![Giao diện chính](./screenshots/main_ui.png)
 
-### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 ![Chức năng quản lý sản phẩm](./screenshots/cn1.png)
 
 ![Chức năng quản ;ý nhập xuất](./screenshots/cn2.png)
