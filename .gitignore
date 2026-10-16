@@ -1,0 +1,14 @@
+# Bỏ qua thư mục .vs
+.vs/
+
+# Bỏ qua các thư mục build
+[Bb]in/
+[Oo]bj/
+
+# Bỏ qua file user
+*.user
+*.userosscache
+*.sln.docstates
+
+# (Tùy chọn) Bỏ qua các file log hoặc cache khác nếu có
+*.log
