@@ -16,8 +16,8 @@ Markdown
 ![Giao diện chính](./screenshots/main_ui.png)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./screenshots/execution_result.png)
+![Chức năng quản lý sản phẩm](./screenshots/cn1.png)
 
-### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+![Chức năng quản ;ý nhập xuất](./screenshots/cn2.png)
 
-![Kiểm tra lỗi](./screenshots/validation_error.png)
+![Chức năng Báo cáo thống kê và đồng bộ](./screenshots/cn3.png)

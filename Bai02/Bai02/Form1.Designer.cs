@@ -1,4 +1,4 @@
-﻿namespace InventoryManager
+﻿.namespace InventoryManager
 {
     partial class frmInventoryManager
     {
